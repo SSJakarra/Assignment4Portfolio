@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp2856269.gif);
+    background-size: cover;
+    background-color: rgb(5, 8, 10);
+    color: rgb(0, 245, 131);
+    width: 70vw;
+}
+
+/* MENU */
+
+#Home-button {
+    text-align: center;
+    font-family: 'Simonetta', 'San-Serif';
+    color: rgb(241, 7, 7);
+    position: sticky;
+    width: 250px;
+    height: 55px;
+    font-size: 40px;
+    margin: 3px;
+    border: 3px solid rgb(0, 255, 136);
+    background-color: rgb(0, 0, 0);
+}
+
+#Works-button {
+    text-align: center;
+    font-family: 'Simonetta', 'San-Serif';
+    color: rgb(0, 225, 255);
+    position: sticky;
+    width: 200px;
+    height: 55px;
+    font-size: 38px;
+    margin: 3px;
+    border: 3px solid rgb(0, 255, 136);
+    background-color: rgb(0, 0, 0);
+}
+
+#Bio-button {
+    text-align: center;
+    font-family: 'Simonetta', 'San-Serif';
+    color: rgb(253, 206, 51);
+    position: sticky;
+    width: 150px;
+    height: 55px;
+    font-size: 36px;
+    margin: 3px;
+    border: 3px solid rgb(0, 255, 136);
+    background-color: rgb(0, 0, 0);
+}
