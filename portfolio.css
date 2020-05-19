@@ -1,9 +1,8 @@
 body {
-    background-image: url(https://wallpapercave.com/wp/wp2856269.gif);
-    background-size: cover;
-    background-color: rgb(5, 8, 10);
+    background-color: rgb(0, 55, 236);
     color: rgb(0, 245, 131);
     width: 70vw;
+    text-align: center;
 }
 
 /* MENU */
